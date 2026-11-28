@@ -36,7 +36,7 @@
 - 习题集与解答
 - 历年试题与备考经验
 
-**提交方式**：将资料发送至邮箱 **metternich1815@126.com**，或提交 Pull Request / Issue。
+**提交方式**：将资料发送至邮箱 **325226604+TheNobleArtemii@users.noreply.github.com**，或提交 Pull Request / Issue。
 
 **命名建议**：`学期/课程名/资料名`，如 `2026-秋/量子物理/口试题整理.md`。
 
