@@ -62,7 +62,7 @@ Most materials are for courses taught in Russian, supplemented with Chinese revi
 
 ### Contributing
 
-Contributions are welcome! Send materials to **metternich1815@126.com**, or open a Pull Request / Issue.
+Contributions are welcome! Send materials to **325226604+TheNobleArtemii@users.noreply.github.com**, or open a Pull Request / Issue.
 
 ### Disclaimer
 
